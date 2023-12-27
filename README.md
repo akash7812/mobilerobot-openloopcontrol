@@ -1,4 +1,4 @@
-# MobileRobot-Openloopcontrol
+ # MobileRobot-Openloopcontrol
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -110,7 +110,7 @@ if _name=='__main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[[![YOUTUBE](![robomaster](https://github.com/akash7812/mobilerobot-openloopcontrol/assets/146819826/3842c86a-ac11-4522-948f-5a3ee32901c3)
+[![YOUTUBE](![robomaster](https://github.com/akash7812/mobilerobot-openloopcontrol/assets/146819826/3842c86a-ac11-4522-948f-5a3ee32901c3)
 (https://youtu.be/NmZDwi1Hzgs?si=EiUi7BLM7sTR43-t)
 
 

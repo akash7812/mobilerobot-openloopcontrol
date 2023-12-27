@@ -110,7 +110,8 @@ if _name=='__main_':
 
 Upload your video in Youtube and paste your video-id here
 
-![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/NmZDwi1Hzgs/mqdefault.webp?v=65858312&sqp=CPSElqwG&rs=AOn4CLCk0Vln1qGfph-IAULyWBFFj99Agw)](https://youtu.be/NmZDwi1Hzgs)
+[![YOUTUBE](![robomaster](https://github.com/Kishorerz/mobilerobot-openloopcontrol/assets/144451216/dab0f68a-7460-4923-b59c-b0f6cb45efce)
+)](https://youtu.be/NmZDwi1Hzgs)
 
 <br/>
 <br/>

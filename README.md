@@ -110,8 +110,7 @@ if _name=='__main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[[![YOUTUBE](![robomaster](![robomaster](https://github.com/akash7812/mobilerobot-openloopcontrol/assets/146819826/f0eb9513-f2f2-4f11-b771-6f04e0fcfa3c)
-)](https://youtu.be/NmZDwi1Hzgs?si=EiUi7BLM7sTR43-t)
+[[![YOUTUBE](![robomaster](![robomaster]C:\Users\admin\Downloads\robomaster.png(https://youtu.be/NmZDwi1Hzgs?si=EiUi7BLM7sTR43-t)
 
 
 <br/>
